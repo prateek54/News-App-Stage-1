@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp Stage-1</string>
+    <string name="no_connection">No Internet Connection.</string>
+    <string name="no_news">No news found, please try again later.</string>
+</resources>
